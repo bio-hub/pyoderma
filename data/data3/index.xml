@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Original Article</title>
+    <link>/pyoderma/data/data3/</link>
+      <atom:link href="/pyoderma/data/data3/index.xml" rel="self" type="application/rss+xml" />
+    <description>Original Article</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/pyoderma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Original Article</title>
+      <link>/pyoderma/data/data3/</link>
+    </image>
+    
+    <item>
+      <title>DaVinci Gene Analysis</title>
+      <link>/pyoderma/data/data3/davinci/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/pyoderma/data/data3/davinci/</guid>
+      <description>
+&lt;link href=&#34;/pyoderma/pyoderma/rmarkdown-libs/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+Article Data information: &lt;br&gt; - Descriptive information about exomic analysis of the 11 patients with Pyoderma Grangrenosum.
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;table-s15&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table S15:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Figure S11: DaVinci Literature App found 131 genes cited in Pyoderma Grangrenosum Literature.
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:700px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pyoderma/data/data3/davinci_files/figure-html//widgets/widget_16b7445deb3be.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;figure-s8&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Figure S8:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Table S8: Venn Diagram Analysis: Genes Intersection With exome analysis and reported on DaVinci
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../../img/plot8.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Severe Group present 76 genes (intersect) with DaVinci report Very Severe Group present 77 genes (intersect) with DaVinci report All patients present 64 genes intersected with Davinci Report&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;table-s16&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table S16:&lt;/h4&gt;
+&lt;p&gt;From this 64 genes, we select the Variants present on patients group. 1334 variants were collected, then we filtered ImportantVars.&lt;/p&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Table S16: Important Variants (ImportantVar) found in genes intersected to DaVinci Literature App and 11 sequenced exoma patients with Pyoderma Gragenosum.
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-2&#34; style=&#34;width:100%;height:600px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-2&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pyoderma/data/data3/davinci_files/figure-html//widgets/widget_16b74656508d6.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;p&gt;Number of genes Carrying ImportantVars: 29 &lt;br&gt; Number of ImportantVar: 45&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;table-17s&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table 17S:&lt;/h4&gt;
+&lt;p&gt;After context sentece analysis of each gene, only, 13 genes were predict to be involved in PG pathogenesis&lt;/p&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Table 17S: List of genes and Important Variants of 11 patients exomas filtered by DaVinci Literature App analysis.
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-3&#34; style=&#34;width:100%;height:1900px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-3&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pyoderma/data/data3/davinci_files/figure-html//widgets/widget_16b742858222c.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Context Analysis of Gene carrying ImportantVars outputted by DaVinci Literature App could be accessed &lt;a href=&#34;./context.html&#34;&gt;here&lt;/a&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DaVinci Gene Context</title>
+      <link>/pyoderma/data/data3/context/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/pyoderma/data/data3/context/</guid>
+      <description>
+&lt;link href=&#34;/pyoderma/pyoderma/rmarkdown-libs/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+Article Data information: &lt;br&gt; - Descriptive information about exomic analysis of the 11 patients with Pyoderma Grangrenosum.
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;table-s18&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table S18:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Figure S18: Context Analysis of Genes retrieved from DaVinci Literature Analysis Report.
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:1000px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pyoderma/data/data3/context_files/figure-html//widgets/widget_168923e1abbe.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

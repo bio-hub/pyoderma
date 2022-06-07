@@ -1,0 +1,1132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Original Article</title>
+    <link>/pyoderma/</link>
+      <atom:link href="/pyoderma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Original Article</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/pyoderma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Original Article</title>
+      <link>/pyoderma/</link>
+    </image>
+    
+    <item>
+      <title>Descriptive Analysis</title>
+      <link>/pyoderma/data/data4/hpo/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/pyoderma/data/data4/hpo/</guid>
+      <description>
+&lt;link href=&#34;/pyoderma/pyoderma/rmarkdown-libs/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+Article Data information: &lt;br&gt; - Descriptive information about exomic analysis of the 11 patients with Pyoderma Grangrenosum.
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;table-s19&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table S19:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Figure S19: List of 43 rare, functional and impact variants that are mutant homozygosis
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:930px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pyoderma/data/data4/hpo_files/figure-html//widgets/widget_1683a511bf779.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;table-s20&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table S20:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Table S20: List of Gene (from table 19) to Phenotype from HPO
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-2&#34; style=&#34;width:100%;height:930px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-2&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pyoderma/data/data4/hpo_files/figure-html//widgets/widget_1683a2b36a1f3.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Overall Description</title>
+      <link>/pyoderma/data/data1/overall/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/pyoderma/data/data1/overall/</guid>
+      <description>
+&lt;link href=&#34;/pyoderma/pyoderma/rmarkdown-libs/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;/pyoderma/pyoderma/rmarkdown-libs/lightable/lightable.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/plotly-binding/plotly.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/typedarray/typedarray.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/jquery/jquery.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;/pyoderma/pyoderma/rmarkdown-libs/crosstalk/css/crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/crosstalk/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;/pyoderma/pyoderma/rmarkdown-libs/plotly-htmlwidgets-css/plotly-htmlwidgets.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/plotly-main/plotly-latest.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+Article Data information: &lt;br&gt; - Descriptive information about exomic analysis of 11 patients with with Pyoderma Grangrenosum.
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;table-s1&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table S1:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Table S1: Distribution of variants from Exome of 11 patients with with Pyoderma Grangrenosum.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ID
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+group
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+All
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ExonVar
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+FuncVar
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ImpactVar
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Rare
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+HSM110
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+VERYSEVERE
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+103977
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+31116
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+290
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3858
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3389
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+HSM115
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SEVERE
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+112575
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32426
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+298
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3880
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3710
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+HSM117
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+VERYSEVERE
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+121600
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+33352
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+286
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3981
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4091
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+HSM144
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SEVERE
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+107561
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32310
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+298
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4017
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3721
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+HSM43
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SEVERE
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+119230
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+33314
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+300
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4002
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3736
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+HSM48
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+VERYSEVERE
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+123682
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+33079
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+315
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3963
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4243
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+HSM51
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SEVERE
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+110628
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32149
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+296
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3903
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3610
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+HSM73
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+VERYSEVERE
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+115748
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32900
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+287
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3971
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4133
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+HSM83
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+VERYSEVERE
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+111706
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32003
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+298
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3911
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3563
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+HSM96
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SEVERE
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+112341
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+31915
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+278
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3896
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3455
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+HSM97
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+VERYSEVERE
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+113822
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32418
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+296
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3981
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3817
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:12px&#34;&gt;
+FunctVar: Functional variant; &lt;br&gt; ImpactVar: Variants with a prediction impact higher than 1 or CADD &amp;gt;=15.
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;table-s2&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table S2:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Table S2: Distribution of variants from Exome in 11 patients with Pyoderma Grangrenosum, according to severity.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+All
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ExonVar
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+FuncVar
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ImpactVar
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Rare
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+verysevere
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+114785
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32659
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+293
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3967
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3954
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+severe
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+112341
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32310
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+298
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3903
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3710
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;figure-s1&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Figure S1&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Figure S1: Distribution of variant location from Exome Report in 11 patients with Pyoderma Grangrenosum.
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:400px;&#34; class=&#34;plotly html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;visdat&#34;:{&#34;b4c55ad09e1f&#34;:[&#34;function () &#34;,&#34;plotlyVisDat&#34;]},&#34;cur_data&#34;:&#34;b4c55ad09e1f&#34;,&#34;attrs&#34;:{&#34;b4c55ad09e1f&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(246, 78, 139, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(246, 78, 139, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;exonic&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;},&#34;b4c55ad09e1f.1&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(58, 71, 80, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(58, 71, 80, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;exonic.splicing&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;b4c55ad09e1f.2&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(40, 20, 80, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(40, 20, 80, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;ncRNA_exonic&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;b4c55ad09e1f.3&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;red&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;red&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;ncRNA_exonic.splicing&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;b4c55ad09e1f.4&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;blue&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;blue&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;ncRNA_splicing&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;b4c55ad09e1f.5&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;black&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;black&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;splicing&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;b4c55ad09e1f.6&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;green&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;green&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;UTR3&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;b4c55ad09e1f.7&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;gray&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;gray&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;UTR5&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;b4c55ad09e1f.8&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;UTR5.UTR3&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true}},&#34;layout&#34;:{&#34;margin&#34;:{&#34;b&#34;:40,&#34;l&#34;:60,&#34;t&#34;:25,&#34;r&#34;:10},&#34;barmode&#34;:&#34;stack&#34;,&#34;xaxis&#34;:{&#34;domain&#34;:[0,1],&#34;automargin&#34;:true,&#34;title&#34;:&#34;&#34;,&#34;showticklabels&#34;:false,&#34;type&#34;:&#34;category&#34;,&#34;categoryorder&#34;:&#34;array&#34;,&#34;categoryarray&#34;:[&#34;    1&#34;,&#34;    2&#34;,&#34;    3&#34;,&#34;    4&#34;,&#34;    7&#34;,&#34;    8&#34;,&#34;    9&#34;,&#34;   10&#34;,&#34;   12&#34;,&#34;   13&#34;,&#34;   14&#34;,&#34;   16&#34;,&#34;   17&#34;,&#34;   18&#34;,&#34;   19&#34;,&#34;   25&#34;,&#34;   26&#34;,&#34;   27&#34;,&#34;   29&#34;,&#34;   30&#34;,&#34;   31&#34;,&#34;   76&#34;,&#34;   77&#34;,&#34;   79&#34;,&#34;   80&#34;,&#34;   82&#34;,&#34;   83&#34;,&#34;   85&#34;,&#34;   86&#34;,&#34;   89&#34;,&#34;   95&#34;,&#34; 2076&#34;,&#34; 2121&#34;,&#34; 2184&#34;,&#34; 2190&#34;,&#34; 2211&#34;,&#34; 2231&#34;,&#34; 2237&#34;,&#34; 2242&#34;,&#34; 2300&#34;,&#34; 2361&#34;,&#34; 2419&#34;,&#34; 2775&#34;,&#34; 2875&#34;,&#34; 2920&#34;,&#34; 2949&#34;,&#34; 2958&#34;,&#34; 2978&#34;,&#34; 2982&#34;,&#34; 3016&#34;,&#34; 3103&#34;,&#34; 3117&#34;,&#34; 3222&#34;,&#34; 3381&#34;,&#34; 3641&#34;,&#34; 3667&#34;,&#34; 3699&#34;,&#34; 3725&#34;,&#34; 3786&#34;,&#34; 3788&#34;,&#34; 3888&#34;,&#34; 4028&#34;,&#34; 4059&#34;,&#34; 4117&#34;,&#34;22751&#34;,&#34;22961&#34;,&#34;23062&#34;,&#34;23246&#34;,&#34;23260&#34;,&#34;23291&#34;,&#34;23299&#34;,&#34;23394&#34;,&#34;23613&#34;,&#34;23657&#34;,&#34;23700&#34;]},&#34;yaxis&#34;:{&#34;domain&#34;:[0,1],&#34;automargin&#34;:true,&#34;title&#34;:&#34;patientID&#34;,&#34;type&#34;:&#34;category&#34;,&#34;categoryorder&#34;:&#34;array&#34;,&#34;categoryarray&#34;:[&#34;HSM110&#34;,&#34;HSM115&#34;,&#34;HSM117&#34;,&#34;HSM144&#34;,&#34;HSM43&#34;,&#34;HSM48&#34;,&#34;HSM51&#34;,&#34;HSM73&#34;,&#34;HSM83&#34;,&#34;HSM96&#34;,&#34;HSM97&#34;]},&#34;annotations&#34;:[{&#34;text&#34;:&#34;Distribution of Variant Location (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:16,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM43&#34;},{&#34;text&#34;:&#34;Distribution of Variant Location (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:16,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM48&#34;},{&#34;text&#34;:&#34;Distribution of Variant Location (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:16,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM51&#34;},{&#34;text&#34;:&#34;Distribution of Variant Location (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:16,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM73&#34;},{&#34;text&#34;:&#34;Distribution of Variant Location (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:16,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM83&#34;},{&#34;text&#34;:&#34;Distribution of Variant Location (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:16,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM97&#34;},{&#34;text&#34;:&#34;Distribution of Variant Location (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:16,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM115&#34;},{&#34;text&#34;:&#34;Distribution of Variant Location (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:16,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM117&#34;},{&#34;text&#34;:&#34;Distribution of Variant Location (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:16,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM144&#34;},{&#34;text&#34;:&#34;Distribution of Variant Location (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:16,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM96&#34;},{&#34;text&#34;:&#34;Distribution of Variant Location (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:16,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM110&#34;}],&#34;hovermode&#34;:&#34;closest&#34;,&#34;showlegend&#34;:true},&#34;source&#34;:&#34;A&#34;,&#34;config&#34;:{&#34;modeBarButtonsToAdd&#34;:[&#34;hoverclosest&#34;,&#34;hovercompare&#34;],&#34;showSendToCloud&#34;:false},&#34;data&#34;:[{&#34;x&#34;:[&#34;23700&#34;,&#34;23291&#34;,&#34;23260&#34;,&#34;23657&#34;,&#34;23062&#34;,&#34;23299&#34;,&#34;23246&#34;,&#34;23613&#34;,&#34;23394&#34;,&#34;22961&#34;,&#34;22751&#34;],&#34;y&#34;:[&#34;HSM43&#34;,&#34;HSM48&#34;,&#34;HSM51&#34;,&#34;HSM73&#34;,&#34;HSM83&#34;,&#34;HSM97&#34;,&#34;HSM115&#34;,&#34;HSM117&#34;,&#34;HSM144&#34;,&#34;HSM96&#34;,&#34;HSM110&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(246, 78, 139, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(246, 78, 139, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;exonic&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(31,119,180,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(31,119,180,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[&#34;   27&#34;,&#34;   25&#34;,&#34;   25&#34;,&#34;   31&#34;,&#34;   31&#34;,&#34;   30&#34;,&#34;   27&#34;,&#34;   27&#34;,&#34;   26&#34;,&#34;   19&#34;,&#34;   29&#34;],&#34;y&#34;:[&#34;HSM43&#34;,&#34;HSM48&#34;,&#34;HSM51&#34;,&#34;HSM73&#34;,&#34;HSM83&#34;,&#34;HSM97&#34;,&#34;HSM115&#34;,&#34;HSM117&#34;,&#34;HSM144&#34;,&#34;HSM96&#34;,&#34;HSM110&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(58, 71, 80, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(58, 71, 80, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;exonic.splicing&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(255,127,14,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(255,127,14,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[&#34; 3117&#34;,&#34; 3103&#34;,&#34; 2958&#34;,&#34; 2978&#34;,&#34; 2920&#34;,&#34; 2982&#34;,&#34; 3016&#34;,&#34; 3222&#34;,&#34; 2949&#34;,&#34; 2875&#34;,&#34; 2775&#34;],&#34;y&#34;:[&#34;HSM43&#34;,&#34;HSM48&#34;,&#34;HSM51&#34;,&#34;HSM73&#34;,&#34;HSM83&#34;,&#34;HSM97&#34;,&#34;HSM115&#34;,&#34;HSM117&#34;,&#34;HSM144&#34;,&#34;HSM96&#34;,&#34;HSM110&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(40, 20, 80, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(40, 20, 80, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;ncRNA_exonic&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(44,160,44,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(44,160,44,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[&#34;    1&#34;,&#34;    1&#34;,&#34;    3&#34;,&#34;    1&#34;,&#34;    1&#34;,&#34;    4&#34;,&#34;    4&#34;,&#34;    1&#34;,&#34;    2&#34;,&#34;    2&#34;,&#34;    2&#34;],&#34;y&#34;:[&#34;HSM43&#34;,&#34;HSM48&#34;,&#34;HSM51&#34;,&#34;HSM73&#34;,&#34;HSM83&#34;,&#34;HSM97&#34;,&#34;HSM115&#34;,&#34;HSM117&#34;,&#34;HSM144&#34;,&#34;HSM96&#34;,&#34;HSM110&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;red&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;red&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;ncRNA_exonic.splicing&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(214,39,40,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(214,39,40,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[&#34;   14&#34;,&#34;   18&#34;,&#34;   17&#34;,&#34;   16&#34;,&#34;   17&#34;,&#34;   13&#34;,&#34;   14&#34;,&#34;   16&#34;,&#34;   16&#34;,&#34;   12&#34;,&#34;   13&#34;],&#34;y&#34;:[&#34;HSM43&#34;,&#34;HSM48&#34;,&#34;HSM51&#34;,&#34;HSM73&#34;,&#34;HSM83&#34;,&#34;HSM97&#34;,&#34;HSM115&#34;,&#34;HSM117&#34;,&#34;HSM144&#34;,&#34;HSM96&#34;,&#34;HSM110&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;blue&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;blue&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;ncRNA_splicing&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(148,103,189,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(148,103,189,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[&#34;   89&#34;,&#34;   95&#34;,&#34;   86&#34;,&#34;   85&#34;,&#34;   76&#34;,&#34;   82&#34;,&#34;   83&#34;,&#34;   77&#34;,&#34;   82&#34;,&#34;   80&#34;,&#34;   79&#34;],&#34;y&#34;:[&#34;HSM43&#34;,&#34;HSM48&#34;,&#34;HSM51&#34;,&#34;HSM73&#34;,&#34;HSM83&#34;,&#34;HSM97&#34;,&#34;HSM115&#34;,&#34;HSM117&#34;,&#34;HSM144&#34;,&#34;HSM96&#34;,&#34;HSM110&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;black&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;black&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;splicing&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(140,86,75,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(140,86,75,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[&#34; 4059&#34;,&#34; 4117&#34;,&#34; 3667&#34;,&#34; 3888&#34;,&#34; 3699&#34;,&#34; 3788&#34;,&#34; 3786&#34;,&#34; 4028&#34;,&#34; 3641&#34;,&#34; 3725&#34;,&#34; 3381&#34;],&#34;y&#34;:[&#34;HSM43&#34;,&#34;HSM48&#34;,&#34;HSM51&#34;,&#34;HSM73&#34;,&#34;HSM83&#34;,&#34;HSM97&#34;,&#34;HSM115&#34;,&#34;HSM117&#34;,&#34;HSM144&#34;,&#34;HSM96&#34;,&#34;HSM110&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;green&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;green&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;UTR3&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(227,119,194,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(227,119,194,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[&#34; 2300&#34;,&#34; 2419&#34;,&#34; 2121&#34;,&#34; 2237&#34;,&#34; 2184&#34;,&#34; 2211&#34;,&#34; 2242&#34;,&#34; 2361&#34;,&#34; 2190&#34;,&#34; 2231&#34;,&#34; 2076&#34;],&#34;y&#34;:[&#34;HSM43&#34;,&#34;HSM48&#34;,&#34;HSM51&#34;,&#34;HSM73&#34;,&#34;HSM83&#34;,&#34;HSM97&#34;,&#34;HSM115&#34;,&#34;HSM117&#34;,&#34;HSM144&#34;,&#34;HSM96&#34;,&#34;HSM110&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;gray&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;gray&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;UTR5&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(127,127,127,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(127,127,127,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[&#34;    7&#34;,&#34;   10&#34;,&#34;   12&#34;,&#34;    7&#34;,&#34;   13&#34;,&#34;    9&#34;,&#34;    8&#34;,&#34;    7&#34;,&#34;   10&#34;,&#34;   10&#34;,&#34;   10&#34;],&#34;y&#34;:[&#34;HSM43&#34;,&#34;HSM48&#34;,&#34;HSM51&#34;,&#34;HSM73&#34;,&#34;HSM83&#34;,&#34;HSM97&#34;,&#34;HSM115&#34;,&#34;HSM117&#34;,&#34;HSM144&#34;,&#34;HSM96&#34;,&#34;HSM110&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;UTR5.UTR3&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(188,189,34,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(188,189,34,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null}],&#34;highlight&#34;:{&#34;on&#34;:&#34;plotly_click&#34;,&#34;persistent&#34;:false,&#34;dynamic&#34;:false,&#34;selectize&#34;:false,&#34;opacityDim&#34;:0.2,&#34;selected&#34;:{&#34;opacity&#34;:1},&#34;debounce&#34;:0},&#34;shinyEvents&#34;:[&#34;plotly_hover&#34;,&#34;plotly_click&#34;,&#34;plotly_selected&#34;,&#34;plotly_relayout&#34;,&#34;plotly_brushed&#34;,&#34;plotly_brushing&#34;,&#34;plotly_clickannotation&#34;,&#34;plotly_doubleclick&#34;,&#34;plotly_deselect&#34;,&#34;plotly_afterplot&#34;,&#34;plotly_sunburstclick&#34;],&#34;base_url&#34;:&#34;https://plot.ly&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;figure-s2&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Figure S2&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Figure S2: Distribution of variant location in 11 patients with Pyoderma Grangrenosum according to severity.
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-2&#34; style=&#34;width:100%;height:400px;&#34; class=&#34;plotly html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-2&#34;&gt;{&#34;x&#34;:{&#34;visdat&#34;:{&#34;b4c5ea7f92b&#34;:[&#34;function () &#34;,&#34;plotlyVisDat&#34;]},&#34;cur_data&#34;:&#34;b4c5ea7f92b&#34;,&#34;attrs&#34;:{&#34;b4c5ea7f92b&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(246, 78, 139, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(246, 78, 139, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;exonic&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;},&#34;b4c5ea7f92b.1&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(58, 71, 80, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(58, 71, 80, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;exonic.splicing&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;b4c5ea7f92b.2&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(40, 20, 80, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(40, 20, 80, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;ncRNA_exonic&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;b4c5ea7f92b.3&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;red&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;red&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;ncRNA_exonic.splicing&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;b4c5ea7f92b.4&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;blue&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;blue&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;ncRNA_splicing&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;b4c5ea7f92b.5&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;black&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;black&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;splicing&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;b4c5ea7f92b.6&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;green&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;green&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;UTR3&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;b4c5ea7f92b.7&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;gray&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;gray&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;UTR5&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;b4c5ea7f92b.8&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;UTR5.UTR3&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true}},&#34;layout&#34;:{&#34;margin&#34;:{&#34;b&#34;:40,&#34;l&#34;:60,&#34;t&#34;:25,&#34;r&#34;:10},&#34;barmode&#34;:&#34;stack&#34;,&#34;xaxis&#34;:{&#34;domain&#34;:[0,1],&#34;automargin&#34;:true,&#34;title&#34;:&#34;&#34;,&#34;showticklabels&#34;:false},&#34;yaxis&#34;:{&#34;domain&#34;:[0,1],&#34;automargin&#34;:true,&#34;title&#34;:&#34;Groups&#34;,&#34;type&#34;:&#34;category&#34;,&#34;categoryorder&#34;:&#34;array&#34;,&#34;categoryarray&#34;:[&#34;severe&#34;,&#34;verysevere&#34;]},&#34;annotations&#34;:[{&#34;text&#34;:&#34;Distribution of Variant Location (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:20000,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:20,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;verysevere&#34;},{&#34;text&#34;:&#34;Distribution of Variant Location (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:20000,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:20,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;severe&#34;},{&#34;text&#34;:&#34;Distribution of Variant Location (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:20000,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:20,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;verysevere&#34;}],&#34;hovermode&#34;:&#34;closest&#34;,&#34;showlegend&#34;:true},&#34;source&#34;:&#34;A&#34;,&#34;config&#34;:{&#34;modeBarButtonsToAdd&#34;:[&#34;hoverclosest&#34;,&#34;hovercompare&#34;],&#34;showSendToCloud&#34;:false},&#34;data&#34;:[{&#34;x&#34;:[23295,23260],&#34;y&#34;:[&#34;verysevere&#34;,&#34;severe&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(246, 78, 139, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(246, 78, 139, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;exonic&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(31,119,180,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(31,119,180,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[30,26],&#34;y&#34;:[&#34;verysevere&#34;,&#34;severe&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(58, 71, 80, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(58, 71, 80, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;exonic.splicing&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(255,127,14,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(255,127,14,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[2980,2958],&#34;y&#34;:[&#34;verysevere&#34;,&#34;severe&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(40, 20, 80, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(40, 20, 80, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;ncRNA_exonic&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(44,160,44,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(44,160,44,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[&#34;verysevere&#34;,&#34;severe&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;red&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;red&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;ncRNA_exonic.splicing&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(214,39,40,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(214,39,40,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[16,14],&#34;y&#34;:[&#34;verysevere&#34;,&#34;severe&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;blue&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;blue&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;ncRNA_splicing&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(148,103,189,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(148,103,189,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[80,83],&#34;y&#34;:[&#34;verysevere&#34;,&#34;severe&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;black&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;black&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;splicing&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(140,86,75,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(140,86,75,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[3838,3725],&#34;y&#34;:[&#34;verysevere&#34;,&#34;severe&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;green&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;green&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;UTR3&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(227,119,194,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(227,119,194,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[2224,2231],&#34;y&#34;:[&#34;verysevere&#34;,&#34;severe&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;gray&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;gray&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;UTR5&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(127,127,127,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(127,127,127,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[10,10],&#34;y&#34;:[&#34;verysevere&#34;,&#34;severe&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;UTR5.UTR3&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(188,189,34,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(188,189,34,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null}],&#34;highlight&#34;:{&#34;on&#34;:&#34;plotly_click&#34;,&#34;persistent&#34;:false,&#34;dynamic&#34;:false,&#34;selectize&#34;:false,&#34;opacityDim&#34;:0.2,&#34;selected&#34;:{&#34;opacity&#34;:1},&#34;debounce&#34;:0},&#34;shinyEvents&#34;:[&#34;plotly_hover&#34;,&#34;plotly_click&#34;,&#34;plotly_selected&#34;,&#34;plotly_relayout&#34;,&#34;plotly_brushed&#34;,&#34;plotly_brushing&#34;,&#34;plotly_clickannotation&#34;,&#34;plotly_doubleclick&#34;,&#34;plotly_deselect&#34;,&#34;plotly_afterplot&#34;,&#34;plotly_sunburstclick&#34;],&#34;base_url&#34;:&#34;https://plot.ly&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;figure-s3&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Figure S3&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Figure S3: Distribution of variant function from Exome Report in 11 patients with Pyoderma Grangrenosum.
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-3&#34; style=&#34;width:100%;height:400px;&#34; class=&#34;plotly html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-3&#34;&gt;{&#34;x&#34;:{&#34;visdat&#34;:{&#34;b4c5188c783b&#34;:[&#34;function () &#34;,&#34;plotlyVisDat&#34;]},&#34;cur_data&#34;:&#34;b4c5188c783b&#34;,&#34;attrs&#34;:{&#34;b4c5188c783b&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(246, 78, 139, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(246, 78, 139, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;frameshift.deletion&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;},&#34;b4c5188c783b.1&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(58, 71, 80, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(58, 71, 80, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;frameshift.insertion&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;b4c5188c783b.2&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(40, 20, 80, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(40, 20, 80, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;nonframeshift.deletion&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;b4c5188c783b.3&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;red&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;red&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;nonframeshift.insertion&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;b4c5188c783b.4&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;blue&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;blue&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;nonsynonymous.SNV&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;b4c5188c783b.5&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;black&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;black&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;splicing&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;b4c5188c783b.6&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;green&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;green&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;startloss&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;b4c5188c783b.7&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;gray&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;gray&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;stopgain&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;b4c5188c783b.8&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;stoploss&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;stoploss&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;b4c5188c783b.9&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;synonymous.SNV&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true}},&#34;layout&#34;:{&#34;margin&#34;:{&#34;b&#34;:40,&#34;l&#34;:60,&#34;t&#34;:25,&#34;r&#34;:10},&#34;barmode&#34;:&#34;stack&#34;,&#34;xaxis&#34;:{&#34;domain&#34;:[0,1],&#34;automargin&#34;:true,&#34;title&#34;:&#34;&#34;,&#34;showticklabels&#34;:false,&#34;type&#34;:&#34;category&#34;,&#34;categoryorder&#34;:&#34;array&#34;,&#34;categoryarray&#34;:[&#34;101&#34;,&#34;106&#34;,&#34;10607&#34;,&#34;10633&#34;,&#34;107&#34;,&#34;10749&#34;,&#34;10769&#34;,&#34;108&#34;,&#34;10838&#34;,&#34;10853&#34;,&#34;10909&#34;,&#34;10966&#34;,&#34;10968&#34;,&#34;11&#34;,&#34;110&#34;,&#34;11020&#34;,&#34;111&#34;,&#34;113&#34;,&#34;11309&#34;,&#34;114&#34;,&#34;11405&#34;,&#34;11500&#34;,&#34;11502&#34;,&#34;11535&#34;,&#34;11586&#34;,&#34;11592&#34;,&#34;11638&#34;,&#34;11704&#34;,&#34;11750&#34;,&#34;11805&#34;,&#34;12&#34;,&#34;13&#34;,&#34;14&#34;,&#34;144&#34;,&#34;15&#34;,&#34;158&#34;,&#34;16&#34;,&#34;160&#34;,&#34;161&#34;,&#34;163&#34;,&#34;164&#34;,&#34;166&#34;,&#34;168&#34;,&#34;17&#34;,&#34;173&#34;,&#34;178&#34;,&#34;179&#34;,&#34;186&#34;,&#34;187&#34;,&#34;188&#34;,&#34;189&#34;,&#34;191&#34;,&#34;197&#34;,&#34;20&#34;,&#34;203&#34;,&#34;207&#34;,&#34;24&#34;,&#34;25&#34;,&#34;26&#34;,&#34;27&#34;,&#34;28&#34;,&#34;31&#34;,&#34;54&#34;,&#34;56&#34;,&#34;58&#34;,&#34;60&#34;,&#34;61&#34;,&#34;62&#34;,&#34;64&#34;,&#34;66&#34;,&#34;67&#34;,&#34;76&#34;,&#34;77&#34;,&#34;78&#34;,&#34;79&#34;,&#34;80&#34;,&#34;82&#34;,&#34;83&#34;,&#34;84&#34;,&#34;85&#34;,&#34;86&#34;,&#34;88&#34;,&#34;89&#34;,&#34;90&#34;,&#34;95&#34;,&#34;99&#34;]},&#34;yaxis&#34;:{&#34;domain&#34;:[0,1],&#34;automargin&#34;:true,&#34;title&#34;:&#34;patientID&#34;,&#34;type&#34;:&#34;category&#34;,&#34;categoryorder&#34;:&#34;array&#34;,&#34;categoryarray&#34;:[&#34;HSM110&#34;,&#34;HSM115&#34;,&#34;HSM117&#34;,&#34;HSM144&#34;,&#34;HSM43&#34;,&#34;HSM48&#34;,&#34;HSM51&#34;,&#34;HSM73&#34;,&#34;HSM83&#34;,&#34;HSM96&#34;,&#34;HSM97&#34;]},&#34;annotations&#34;:[{&#34;text&#34;:&#34;Distribution of Variant Function (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:20,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM43&#34;},{&#34;text&#34;:&#34;Distribution of Variant Function (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:20,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM48&#34;},{&#34;text&#34;:&#34;Distribution of Variant Function (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:20,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM51&#34;},{&#34;text&#34;:&#34;Distribution of Variant Function (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:20,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM73&#34;},{&#34;text&#34;:&#34;Distribution of Variant Function (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:20,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM83&#34;},{&#34;text&#34;:&#34;Distribution of Variant Function (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:20,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM97&#34;},{&#34;text&#34;:&#34;Distribution of Variant Function (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:20,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM115&#34;},{&#34;text&#34;:&#34;Distribution of Variant Function (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:20,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM117&#34;},{&#34;text&#34;:&#34;Distribution of Variant Function (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:20,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM144&#34;},{&#34;text&#34;:&#34;Distribution of Variant Function (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:20,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM96&#34;},{&#34;text&#34;:&#34;Distribution of Variant Function (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:200,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:20,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;HSM110&#34;}],&#34;hovermode&#34;:&#34;closest&#34;,&#34;showlegend&#34;:true},&#34;source&#34;:&#34;A&#34;,&#34;config&#34;:{&#34;modeBarButtonsToAdd&#34;:[&#34;hoverclosest&#34;,&#34;hovercompare&#34;],&#34;showSendToCloud&#34;:false},&#34;data&#34;:[{&#34;x&#34;:[&#34;89&#34;,&#34;89&#34;,&#34;78&#34;,&#34;84&#34;,&#34;88&#34;,&#34;79&#34;,&#34;83&#34;,&#34;82&#34;,&#34;84&#34;,&#34;79&#34;,&#34;90&#34;],&#34;y&#34;:[&#34;HSM43&#34;,&#34;HSM48&#34;,&#34;HSM51&#34;,&#34;HSM73&#34;,&#34;HSM83&#34;,&#34;HSM97&#34;,&#34;HSM115&#34;,&#34;HSM117&#34;,&#34;HSM144&#34;,&#34;HSM96&#34;,&#34;HSM110&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(246, 78, 139, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(246, 78, 139, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;frameshift.deletion&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(31,119,180,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(31,119,180,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[&#34;64&#34;,&#34;67&#34;,&#34;58&#34;,&#34;61&#34;,&#34;62&#34;,&#34;60&#34;,&#34;64&#34;,&#34;58&#34;,&#34;66&#34;,&#34;54&#34;,&#34;56&#34;],&#34;y&#34;:[&#34;HSM43&#34;,&#34;HSM48&#34;,&#34;HSM51&#34;,&#34;HSM73&#34;,&#34;HSM83&#34;,&#34;HSM97&#34;,&#34;HSM115&#34;,&#34;HSM117&#34;,&#34;HSM144&#34;,&#34;HSM96&#34;,&#34;HSM110&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(58, 71, 80, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(58, 71, 80, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;frameshift.insertion&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(255,127,14,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(255,127,14,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[&#34;189&#34;,&#34;186&#34;,&#34;187&#34;,&#34;207&#34;,&#34;179&#34;,&#34;203&#34;,&#34;191&#34;,&#34;197&#34;,&#34;179&#34;,&#34;188&#34;,&#34;178&#34;],&#34;y&#34;:[&#34;HSM43&#34;,&#34;HSM48&#34;,&#34;HSM51&#34;,&#34;HSM73&#34;,&#34;HSM83&#34;,&#34;HSM97&#34;,&#34;HSM115&#34;,&#34;HSM117&#34;,&#34;HSM144&#34;,&#34;HSM96&#34;,&#34;HSM110&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(40, 20, 80, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(40, 20, 80, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;nonframeshift.deletion&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(44,160,44,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(44,160,44,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[&#34;173&#34;,&#34;166&#34;,&#34;158&#34;,&#34;164&#34;,&#34;163&#34;,&#34;160&#34;,&#34;168&#34;,&#34;160&#34;,&#34;163&#34;,&#34;144&#34;,&#34;161&#34;],&#34;y&#34;:[&#34;HSM43&#34;,&#34;HSM48&#34;,&#34;HSM51&#34;,&#34;HSM73&#34;,&#34;HSM83&#34;,&#34;HSM97&#34;,&#34;HSM115&#34;,&#34;HSM117&#34;,&#34;HSM144&#34;,&#34;HSM96&#34;,&#34;HSM110&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;red&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;red&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;nonframeshift.insertion&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(214,39,40,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(214,39,40,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[&#34;10966&#34;,&#34;10838&#34;,&#34;10909&#34;,&#34;11020&#34;,&#34;10769&#34;,&#34;10838&#34;,&#34;10749&#34;,&#34;10968&#34;,&#34;10853&#34;,&#34;10633&#34;,&#34;10607&#34;],&#34;y&#34;:[&#34;HSM43&#34;,&#34;HSM48&#34;,&#34;HSM51&#34;,&#34;HSM73&#34;,&#34;HSM83&#34;,&#34;HSM97&#34;,&#34;HSM115&#34;,&#34;HSM117&#34;,&#34;HSM144&#34;,&#34;HSM96&#34;,&#34;HSM110&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;blue&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;blue&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;nonsynonymous.SNV&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(148,103,189,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(148,103,189,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[&#34;89&#34;,&#34;95&#34;,&#34;86&#34;,&#34;85&#34;,&#34;76&#34;,&#34;82&#34;,&#34;83&#34;,&#34;77&#34;,&#34;82&#34;,&#34;80&#34;,&#34;79&#34;],&#34;y&#34;:[&#34;HSM43&#34;,&#34;HSM48&#34;,&#34;HSM51&#34;,&#34;HSM73&#34;,&#34;HSM83&#34;,&#34;HSM97&#34;,&#34;HSM115&#34;,&#34;HSM117&#34;,&#34;HSM144&#34;,&#34;HSM96&#34;,&#34;HSM110&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;black&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;black&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;splicing&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(140,86,75,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(140,86,75,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[&#34;27&#34;,&#34;25&#34;,&#34;31&#34;,&#34;27&#34;,&#34;24&#34;,&#34;31&#34;,&#34;26&#34;,&#34;28&#34;,&#34;31&#34;,&#34;31&#34;,&#34;26&#34;],&#34;y&#34;:[&#34;HSM43&#34;,&#34;HSM48&#34;,&#34;HSM51&#34;,&#34;HSM73&#34;,&#34;HSM83&#34;,&#34;HSM97&#34;,&#34;HSM115&#34;,&#34;HSM117&#34;,&#34;HSM144&#34;,&#34;HSM96&#34;,&#34;HSM110&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;green&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;green&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;startloss&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(227,119,194,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(227,119,194,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[&#34;108&#34;,&#34;114&#34;,&#34;113&#34;,&#34;101&#34;,&#34;111&#34;,&#34;110&#34;,&#34;110&#34;,&#34;101&#34;,&#34;106&#34;,&#34;99&#34;,&#34;107&#34;],&#34;y&#34;:[&#34;HSM43&#34;,&#34;HSM48&#34;,&#34;HSM51&#34;,&#34;HSM73&#34;,&#34;HSM83&#34;,&#34;HSM97&#34;,&#34;HSM115&#34;,&#34;HSM117&#34;,&#34;HSM144&#34;,&#34;HSM96&#34;,&#34;HSM110&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;gray&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;gray&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;stopgain&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(127,127,127,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(127,127,127,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[&#34;12&#34;,&#34;20&#34;,&#34;16&#34;,&#34;14&#34;,&#34;13&#34;,&#34;16&#34;,&#34;15&#34;,&#34;17&#34;,&#34;11&#34;,&#34;15&#34;,&#34;11&#34;],&#34;y&#34;:[&#34;HSM43&#34;,&#34;HSM48&#34;,&#34;HSM51&#34;,&#34;HSM73&#34;,&#34;HSM83&#34;,&#34;HSM97&#34;,&#34;HSM115&#34;,&#34;HSM117&#34;,&#34;HSM144&#34;,&#34;HSM96&#34;,&#34;HSM110&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;stoploss&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;stoploss&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(188,189,34,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(188,189,34,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[&#34;11805&#34;,&#34;11535&#34;,&#34;11500&#34;,&#34;11750&#34;,&#34;11405&#34;,&#34;11586&#34;,&#34;11592&#34;,&#34;11704&#34;,&#34;11638&#34;,&#34;11502&#34;,&#34;11309&#34;],&#34;y&#34;:[&#34;HSM43&#34;,&#34;HSM48&#34;,&#34;HSM51&#34;,&#34;HSM73&#34;,&#34;HSM83&#34;,&#34;HSM97&#34;,&#34;HSM115&#34;,&#34;HSM117&#34;,&#34;HSM144&#34;,&#34;HSM96&#34;,&#34;HSM110&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;synonymous.SNV&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(23,190,207,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(23,190,207,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null}],&#34;highlight&#34;:{&#34;on&#34;:&#34;plotly_click&#34;,&#34;persistent&#34;:false,&#34;dynamic&#34;:false,&#34;selectize&#34;:false,&#34;opacityDim&#34;:0.2,&#34;selected&#34;:{&#34;opacity&#34;:1},&#34;debounce&#34;:0},&#34;shinyEvents&#34;:[&#34;plotly_hover&#34;,&#34;plotly_click&#34;,&#34;plotly_selected&#34;,&#34;plotly_relayout&#34;,&#34;plotly_brushed&#34;,&#34;plotly_brushing&#34;,&#34;plotly_clickannotation&#34;,&#34;plotly_doubleclick&#34;,&#34;plotly_deselect&#34;,&#34;plotly_afterplot&#34;,&#34;plotly_sunburstclick&#34;],&#34;base_url&#34;:&#34;https://plot.ly&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;figure-s4&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Figure S4&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Figure S4: Distribution of variant function oin 11 patients with Pyoderma Grangrenosum according to severity.
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-4&#34; style=&#34;width:100%;height:400px;&#34; class=&#34;plotly html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-4&#34;&gt;{&#34;x&#34;:{&#34;visdat&#34;:{&#34;b4c53043d17b&#34;:[&#34;function () &#34;,&#34;plotlyVisDat&#34;]},&#34;cur_data&#34;:&#34;b4c53043d17b&#34;,&#34;attrs&#34;:{&#34;b4c53043d17b&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(246, 78, 139, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(246, 78, 139, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;frameshift.deletion&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;},&#34;b4c53043d17b.1&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(58, 71, 80, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(58, 71, 80, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;frameshift.insertion&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;b4c53043d17b.2&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(40, 20, 80, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(40, 20, 80, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;nonframeshift.deletion&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;b4c53043d17b.3&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;red&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;red&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;nonframeshift.insertion&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;b4c53043d17b.4&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;blue&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;blue&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;nonsynonymous.SNV&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;b4c53043d17b.5&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;black&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;black&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;splicing&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;b4c53043d17b.6&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;green&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;green&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;startloss&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;b4c53043d17b.7&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;gray&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;gray&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;stopgain&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;b4c53043d17b.8&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;stoploss&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;stoploss&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true},&#34;b4c53043d17b.9&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;synonymous.SNV&#34;,&#34;alpha_stroke&#34;:1,&#34;sizes&#34;:[10,100],&#34;spans&#34;:[1,20],&#34;type&#34;:&#34;bar&#34;,&#34;inherit&#34;:true}},&#34;layout&#34;:{&#34;margin&#34;:{&#34;b&#34;:40,&#34;l&#34;:60,&#34;t&#34;:25,&#34;r&#34;:10},&#34;barmode&#34;:&#34;stack&#34;,&#34;xaxis&#34;:{&#34;domain&#34;:[0,1],&#34;automargin&#34;:true,&#34;title&#34;:&#34;&#34;,&#34;showticklabels&#34;:false},&#34;yaxis&#34;:{&#34;domain&#34;:[0,1],&#34;automargin&#34;:true,&#34;title&#34;:&#34;Group&#34;,&#34;type&#34;:&#34;category&#34;,&#34;categoryorder&#34;:&#34;array&#34;,&#34;categoryarray&#34;:[&#34;severe&#34;,&#34;verysevere&#34;]},&#34;annotations&#34;:[{&#34;text&#34;:&#34;Distribution of Variant Function (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:20000,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:20,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;verysevere&#34;},{&#34;text&#34;:&#34;Distribution of Variant Function (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:20000,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:20,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;severe&#34;},{&#34;text&#34;:&#34;Distribution of Variant Function (n)&#34;,&#34;xref&#34;:&#34;x&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;x&#34;:20000,&#34;font&#34;:{&#34;family&#34;:&#34;Arial&#34;,&#34;size&#34;:20,&#34;color&#34;:&#34;rgb(67, 67, 67)&#34;},&#34;showarrow&#34;:false,&#34;y&#34;:&#34;verysevere&#34;}],&#34;hovermode&#34;:&#34;closest&#34;,&#34;showlegend&#34;:true},&#34;source&#34;:&#34;A&#34;,&#34;config&#34;:{&#34;modeBarButtonsToAdd&#34;:[&#34;hoverclosest&#34;,&#34;hovercompare&#34;],&#34;showSendToCloud&#34;:false},&#34;data&#34;:[{&#34;x&#34;:[86,83],&#34;y&#34;:[&#34;verysevere&#34;,&#34;severe&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(246, 78, 139, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(246, 78, 139, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;frameshift.deletion&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(31,119,180,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(31,119,180,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[60,64],&#34;y&#34;:[&#34;verysevere&#34;,&#34;severe&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(58, 71, 80, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(58, 71, 80, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;frameshift.insertion&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(255,127,14,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(255,127,14,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[192,188],&#34;y&#34;:[&#34;verysevere&#34;,&#34;severe&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;rgba(40, 20, 80, 0.6)&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;rgba(40, 20, 80, 0.6)&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;nonframeshift.deletion&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(44,160,44,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(44,160,44,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[162,163],&#34;y&#34;:[&#34;verysevere&#34;,&#34;severe&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;red&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;red&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;nonframeshift.insertion&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(214,39,40,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(214,39,40,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[10838,10853],&#34;y&#34;:[&#34;verysevere&#34;,&#34;severe&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;blue&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;blue&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;nonsynonymous.SNV&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(148,103,189,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(148,103,189,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[80,83],&#34;y&#34;:[&#34;verysevere&#34;,&#34;severe&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;black&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;black&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;splicing&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(140,86,75,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(140,86,75,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[26,31],&#34;y&#34;:[&#34;verysevere&#34;,&#34;severe&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;green&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;green&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;startloss&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(227,119,194,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(227,119,194,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[108,108],&#34;y&#34;:[&#34;verysevere&#34;,&#34;severe&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;gray&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;gray&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;stopgain&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(127,127,127,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(127,127,127,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[15,15],&#34;y&#34;:[&#34;verysevere&#34;,&#34;severe&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;stoploss&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;stoploss&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(188,189,34,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(188,189,34,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[11560,11592],&#34;y&#34;:[&#34;verysevere&#34;,&#34;severe&#34;],&#34;orientation&#34;:&#34;h&#34;,&#34;marker&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;line&#34;:{&#34;color&#34;:&#34;brown&#34;,&#34;width&#34;:1}},&#34;name&#34;:&#34;synonymous.SNV&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;error_y&#34;:{&#34;color&#34;:&#34;rgba(23,190,207,1)&#34;},&#34;error_x&#34;:{&#34;color&#34;:&#34;rgba(23,190,207,1)&#34;},&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;frame&#34;:null}],&#34;highlight&#34;:{&#34;on&#34;:&#34;plotly_click&#34;,&#34;persistent&#34;:false,&#34;dynamic&#34;:false,&#34;selectize&#34;:false,&#34;opacityDim&#34;:0.2,&#34;selected&#34;:{&#34;opacity&#34;:1},&#34;debounce&#34;:0},&#34;shinyEvents&#34;:[&#34;plotly_hover&#34;,&#34;plotly_click&#34;,&#34;plotly_selected&#34;,&#34;plotly_relayout&#34;,&#34;plotly_brushed&#34;,&#34;plotly_brushing&#34;,&#34;plotly_clickannotation&#34;,&#34;plotly_doubleclick&#34;,&#34;plotly_deselect&#34;,&#34;plotly_afterplot&#34;,&#34;plotly_sunburstclick&#34;],&#34;base_url&#34;:&#34;https://plot.ly&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;table-s5&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table S5:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Then, we considered the genes in which variants were present
+&lt;/p&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Table S5: Distribution of genes carrying variants of 11 patients with Pyoderma Grangrenosum.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+All
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ExonVar
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+FuncVar
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ImpactVar
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Rare
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+HSM43
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+17187
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12250
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+250
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2789
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2395
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+HSM48
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+17285
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12234
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+270
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2784
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2578
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+HSM51
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+16835
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12029
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+251
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2750
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2357
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+HSM73
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+17023
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12148
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+240
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2806
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2606
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+HSM83
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+16876
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12009
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+244
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2756
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2207
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+HSM97
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+16998
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12134
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+237
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2767
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2414
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+HSM115
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+17045
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12199
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+252
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2753
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2392
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+HSM117
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+17185
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12230
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+245
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2797
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2494
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+HSM144
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+16919
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12122
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+248
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2800
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2347
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+HSM96
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+16898
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11989
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+241
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2755
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2303
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+HSM110
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+16639
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11847
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+237
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2723
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2198
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;table-s6&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table S6:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Table S6: Distribution of genes carrying variants of in 11 patients with Pyoderma Grangrenosum according to severity.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+All
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ExonVar
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+FuncVar
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ImpactVar
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Rare
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+verysevere
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+17010
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12141
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+242
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2776
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2454
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+severe
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+16919
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12122
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+250
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2755
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2357
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;table-s7.1&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table S7.1:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Table S7.1: List of 20 genes carrying at least one FunctVar in verysevere group
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-5&#34; style=&#34;width:100%;height:500px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-5&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pyoderma/data/data1/overall_files/figure-html//widgets/widget_16236607a8772.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;table-s7.2&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table S7.2:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Table S7.2: List of 32 genes carrying at least one FunctVar in severe group
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-6&#34; style=&#34;width:100%;height:500px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-6&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pyoderma/data/data1/overall_files/figure-html//widgets/widget_162367c062087.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;table-s8.1&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table S8.1:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Table S8.1: List of 241 genes carrying at least one ImpactVar in verysevere group
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-7&#34; style=&#34;width:100%;height:500px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-7&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pyoderma/data/data1/overall_files/figure-html//widgets/widget_16236564d8c82.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;table-s8.2&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table S8.2:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Table S8.2: List of 320 genes carrying at least one ImpactVar in severe group
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-8&#34; style=&#34;width:100%;height:500px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-8&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pyoderma/data/data1/overall_files/figure-html//widgets/widget_1623670dcdd56.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Group Comparisons</title>
+      <link>/pyoderma/data/data1/group/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/pyoderma/data/data1/group/</guid>
+      <description>
+&lt;link href=&#34;/pyoderma/pyoderma/rmarkdown-libs/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+Article Data information: &lt;br&gt; - Descriptive information about exomic analysis of the 11 patients with Pyoderma Grangrenosum.
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;figure-s5&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Figure S5:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Figure S5: Venn diagram of common FunctVar
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../../img/plot5.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;table-s3.1&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table S3.1:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Table S3.1: List of the 23 common FunctVar present on verysevere patient&#39;s group not common on severe groups
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:500px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pyoderma/data/data1/group_files/figure-html//widgets/widget_1622876e5f3e9.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:12px&#34;&gt;
+FunctVar: Functional variant; &lt;br&gt; ImpactVar: Variants with a prediction impact higher than 1 or CADD &amp;gt;=15.
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;table-s3.2&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table S3.2:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Table S3.2: List of the 33 common FunctVar present on severe patient&#39;s group not common on verysevere groups
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-2&#34; style=&#34;width:100%;height:500px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-2&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pyoderma/data/data1/group_files/figure-html//widgets/widget_16228c27260a.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;figure-s6&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Figure S6:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Figure 6: Venn diagram of common ImpactVar
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../../img/plot6.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;table-s4.1&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table S4.1:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Table S4.1: List of the 258 common ImpactVar present on verysevere patient&#39;s group not common on severe groups
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-3&#34; style=&#34;width:100%;height:500px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-3&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pyoderma/data/data1/group_files/figure-html//widgets/widget_162283d6e4f37.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:12px&#34;&gt;
+FunctVar: Functional variant; &lt;br&gt; ImpactVar: Variants with a prediction impact higher than 1 or CADD &amp;gt;=15.
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;table-s4.2&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table S4.2:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Table S4.2: List of the 386 common ImpactVar present on severe patient&#39;s group not common on verysevere groups
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-4&#34; style=&#34;width:100%;height:500px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-4&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pyoderma/data/data1/group_files/figure-html//widgets/widget_162282d9a364.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Variant Enrichment Analysis</title>
+      <link>/pyoderma/data/data1/vea/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/pyoderma/data/data1/vea/</guid>
+      <description>
+&lt;link href=&#34;/pyoderma/pyoderma/rmarkdown-libs/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+VEA Group Analysis &lt;br&gt; - Descriptive information about exomic analysis pathway of 11 patients with with Pyoderma Grangrenosum.
+&lt;/p&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:14px&#34;&gt;
+To access individual information of VEA, &lt;a href=&#34;../../../supplementary/vea/individual/&#34;&gt; click here &lt;/a&gt;
+&lt;/p&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:14px&#34;&gt;
+To access Groups information of filtered VEA (Features), &lt;a href=&#34;../../../supplementary/vea/group/&#34;&gt; click here &lt;/a&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;filtered-vea-features&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Filtered VEA (Features):&lt;/h3&gt;
+&lt;div id=&#34;figure-s7&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Figure S7:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Figure S7: Venn diagram of common filtered (Features) Enriched Pathways per each group
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../../img/plot7.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;table-s10.1&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table S10.1:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Table S10.1: List of 14 common Enriched Pathways in VERYSEVERE Group
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:930px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pyoderma/data/data1/vea_files/figure-html//widgets/widget_1680df8d4601.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+*these pathways could be found in the skin during skin inflammations
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;table-s10.2&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table S10.2:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Table S10.2: List of 9 common Enriched Pathways in SEVERE Group
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-2&#34; style=&#34;width:100%;height:930px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-2&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pyoderma/data/data1/vea_files/figure-html//widgets/widget_1680d3cbcd10b.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+*these pathways could be found in the skin during skin inflammations
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DaVinci Gene Analysis</title>
+      <link>/pyoderma/data/data3/davinci/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/pyoderma/data/data3/davinci/</guid>
+      <description>
+&lt;link href=&#34;/pyoderma/pyoderma/rmarkdown-libs/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+Article Data information: &lt;br&gt; - Descriptive information about exomic analysis of the 11 patients with Pyoderma Grangrenosum.
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;table-s15&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table S15:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Figure S11: DaVinci Literature App found 131 genes cited in Pyoderma Grangrenosum Literature.
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:700px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pyoderma/data/data3/davinci_files/figure-html//widgets/widget_16b7445deb3be.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;figure-s8&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Figure S8:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Table S8: Venn Diagram Analysis: Genes Intersection With exome analysis and reported on DaVinci
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../../img/plot8.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Severe Group present 76 genes (intersect) with DaVinci report Very Severe Group present 77 genes (intersect) with DaVinci report All patients present 64 genes intersected with Davinci Report&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;table-s16&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table S16:&lt;/h4&gt;
+&lt;p&gt;From this 64 genes, we select the Variants present on patients group. 1334 variants were collected, then we filtered ImportantVars.&lt;/p&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Table S16: Important Variants (ImportantVar) found in genes intersected to DaVinci Literature App and 11 sequenced exoma patients with Pyoderma Gragenosum.
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-2&#34; style=&#34;width:100%;height:600px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-2&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pyoderma/data/data3/davinci_files/figure-html//widgets/widget_16b74656508d6.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;p&gt;Number of genes Carrying ImportantVars: 29 &lt;br&gt; Number of ImportantVar: 45&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;table-17s&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table 17S:&lt;/h4&gt;
+&lt;p&gt;After context sentece analysis of each gene, only, 13 genes were predict to be involved in PG pathogenesis&lt;/p&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Table 17S: List of genes and Important Variants of 11 patients exomas filtered by DaVinci Literature App analysis.
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-3&#34; style=&#34;width:100%;height:1900px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-3&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pyoderma/data/data3/davinci_files/figure-html//widgets/widget_16b742858222c.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Context Analysis of Gene carrying ImportantVars outputted by DaVinci Literature App could be accessed &lt;a href=&#34;./context.html&#34;&gt;here&lt;/a&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DaVinci Gene Context</title>
+      <link>/pyoderma/data/data3/context/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/pyoderma/data/data3/context/</guid>
+      <description>
+&lt;link href=&#34;/pyoderma/pyoderma/rmarkdown-libs/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+Article Data information: &lt;br&gt; - Descriptive information about exomic analysis of the 11 patients with Pyoderma Grangrenosum.
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;table-s18&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table S18:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Figure S18: Context Analysis of Genes retrieved from DaVinci Literature Analysis Report.
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:1000px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pyoderma/data/data3/context_files/figure-html//widgets/widget_168923e1abbe.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/pyoderma/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/pyoderma/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/pyoderma/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/pyoderma/terms/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Different molecular pathways are disrupted in Pyoderma gangrenosum patients and are associated with the severity of the disease</title>
+      <link>/pyoderma/affiliation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/pyoderma/affiliation/</guid>
+      <description>&lt;h5 id=&#34;pg&#34;&gt;PG.&lt;/h5&gt;
+&lt;hr&gt;
+&lt;p&gt;Order of Authors and affiliation:&lt;/p&gt;
+&lt;h4 id=&#34;-lucas-andré-cavalcanti-brandão&#34;&gt;. Lucas André Cavalcanti Brandão&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;Molecular Patology Lab. Department of Patology, Medical Science Center, Federal University of Pernambuco, Recife, Brazil.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id=&#34;-ronald-rodrigues-de-moura&#34;&gt;. Ronald Rodrigues de Moura&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;Department of Advanced Diagnostics, Institute for Maternal and Child Health, IRCCS &amp;quot;Burlo Garofolo&amp;quot;, Trieste, Italy
+ronaldmoura1989@gmail.com
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id=&#34;-angelo-valerio-marzano&#34;&gt;. Angelo Valerio Marzano&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;Dermatology Unit, Fondazione IRCCS Ca&#39; Granda Ospedale Maggiore Policlinico, Milan, Italy;
+Department of Physiopathology and Transplantation, Università degli Studi di Milano, Milan, Italy
+avmarzano@gmail.com. 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id=&#34;-chiara-moltrasio&#34;&gt;. Chiara Moltrasio&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;Dermatology Unit, Fondazione IRCCS Ca&#39; Granda Ospedale Maggiore Policlinico, Milan, Italy;   
+moltrasiochiara@gmail.com
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id=&#34;-paola-maura-tricarico&#34;&gt;. Paola Maura Tricarico&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;Department of Advanced Diagnostics, Institute for Maternal and Child Health, IRCCS &amp;quot;Burlo Garofolo&amp;quot;, Trieste, Italy
+tricaricopa@gmail.com
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id=&#34;-sergio-crovella&#34;&gt;. Sergio Crovella&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;Biological Science Program, Department of Biological and Environmental Sciences, College of Arts and Sciences, University of Qatar, Doha, 2713, Qatar; sgrovella@qu.edu.qa
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id=&#34;-almerinda-agrelli&#34;&gt;. Almerinda Agrelli&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;Instution.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Original Article</title>
+    <link>/pyoderma/data/data4/</link>
+      <atom:link href="/pyoderma/data/data4/index.xml" rel="self" type="application/rss+xml" />
+    <description>Original Article</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/pyoderma/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Original Article</title>
+      <link>/pyoderma/data/data4/</link>
+    </image>
+    
+    <item>
+      <title>Descriptive Analysis</title>
+      <link>/pyoderma/data/data4/hpo/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/pyoderma/data/data4/hpo/</guid>
+      <description>
+&lt;link href=&#34;/pyoderma/pyoderma/rmarkdown-libs/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+Article Data information: &lt;br&gt; - Descriptive information about exomic analysis of the 11 patients with Pyoderma Grangrenosum.
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;table-s19&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table S19:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Figure S19: List of 43 rare, functional and impact variants that are mutant homozygosis
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:930px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pyoderma/data/data4/hpo_files/figure-html//widgets/widget_1683a511bf779.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;table-s20&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table S20:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Table S20: List of Gene (from table 19) to Phenotype from HPO
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-2&#34; style=&#34;width:100%;height:930px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-2&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pyoderma/data/data4/hpo_files/figure-html//widgets/widget_1683a2b36a1f3.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
