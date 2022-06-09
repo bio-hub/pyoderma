@@ -888,6 +888,7 @@ Table S4.2: List of the 386 common ImpactVar present on severe patient&#39;s gro
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
       <guid>/pyoderma/data/data1/vea/</guid>
       <description>
+&lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 &lt;link href=&#34;/pyoderma/pyoderma/rmarkdown-libs/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
 &lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;/pyoderma/pyoderma/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
@@ -896,7 +897,8 @@ Table S4.2: List of the 386 common ImpactVar present on severe patient&#39;s gro
 
 
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
-VEA Group Analysis &lt;br&gt; - Descriptive information about exomic analysis pathway of 11 patients with with Pyoderma Grangrenosum.
+VEA Group Analysis &lt;br&gt;
+- Descriptive information about exomic analysis pathway of 11 patients with with Pyoderma Grangrenosum.
 &lt;/p&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:14px&#34;&gt;
 To access individual information of VEA, &lt;a href=&#34;../../../supplementary/vea/individual/&#34;&gt; click here &lt;/a&gt;
@@ -918,10 +920,10 @@ Figure S7: Venn diagram of common filtered (Features) Enriched Pathways per each
 &lt;div id=&#34;table-s10.1&#34; class=&#34;section level4&#34;&gt;
 &lt;h4&gt;Table S10.1:&lt;/h4&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
-Table S10.1: List of 14 common Enriched Pathways in VERYSEVERE Group
+Table S10.1: List of 8 common Enriched Pathways in INTERSECT Group
 &lt;/p&gt;
 &lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:930px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pyoderma/data/data1/vea_files/figure-html//widgets/widget_1680df8d4601.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pyoderma/data/data1/vea_files/figure-html//widgets/widget_1e1c4e007b45.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
 *these pathways could be found in the skin during skin inflammations
 &lt;/p&gt;
@@ -930,10 +932,22 @@ Table S10.1: List of 14 common Enriched Pathways in VERYSEVERE Group
 &lt;div id=&#34;table-s10.2&#34; class=&#34;section level4&#34;&gt;
 &lt;h4&gt;Table S10.2:&lt;/h4&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
-Table S10.2: List of 9 common Enriched Pathways in SEVERE Group
+Table S10.2: List of 14 common Enriched Pathways in VERYSEVERE Group
 &lt;/p&gt;
 &lt;div id=&#34;htmlwidget-2&#34; style=&#34;width:100%;height:930px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-2&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pyoderma/data/data1/vea_files/figure-html//widgets/widget_1680d3cbcd10b.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-2&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pyoderma/data/data1/vea_files/figure-html//widgets/widget_1e1c70524a16.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+*these pathways could be found in the skin during skin inflammations
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;table-s10.3&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Table S10.3:&lt;/h4&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
+Table S10.3: List of 9 common Enriched Pathways in SEVERE Group
+&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-3&#34; style=&#34;width:100%;height:930px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-3&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/pyoderma/data/data1/vea_files/figure-html//widgets/widget_1e1c3f6b0145.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:14px&#34;&gt;
 *these pathways could be found in the skin during skin inflammations
 &lt;/p&gt;
